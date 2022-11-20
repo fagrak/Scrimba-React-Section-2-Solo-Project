@@ -1,2 +1,3 @@
-# Scrimba-React-Section-2-Solo-Project
-Created with CodeSandbox
+# Scrimba React Course Section 2 Solo Project
+
+This project was created for the practice of using arrays, map(), pulling data to components and mapping components by using React
