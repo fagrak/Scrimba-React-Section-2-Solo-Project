@@ -1,0 +1,120 @@
+.App {
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background: #f5f7fb;
+}
+
+#root {
+  position: absolute;
+  width: 550px;
+  height: 55px;
+  left: 0px;
+  top: 0px;
+
+  background: #f55a5a;
+}
+
+nav {
+  position: relative;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14.4608px;
+  letter-spacing: -0.075em;
+  text-align: center;
+
+  color: #ffffff;
+}
+
+#groups {
+  width: 470px;
+  height: 168px;
+  left: 40px;
+  top: 200px;
+}
+
+.article--image {
+  position: absolute;
+  width: 125px;
+  height: 168px;
+  left: 40px;
+
+  background: url(.png);
+  border-radius: 5px;
+}
+
+#right {
+  position: absolute;
+  width: 326px;
+  height: 144px;
+  left: 184px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.24px;
+  line-height: 150%;
+  /* or 15px */
+
+  color: #2b283a;
+}
+
+#article-location {
+  width: 72px;
+  height: 10px;
+  left: 195px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.24px;
+
+  letter-spacing: 0.17em;
+
+  color: #2b283a;
+}
+
+#article-title {
+  font-size: 25px;
+  color: #2b283a;
+}
+
+#article-dates {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 10.24px;
+  line-height: 12px;
+
+  color: #2b283a;
+}
+
+#article-description {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.24px;
+  line-height: 150%;
+  /* or 15px */
+
+  color: #2b283a;
+}
+
+#link {
+  width: 106px;
+  height: 13px;
+  left: 279px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.24px;
+  line-height: 12px;
+  /* identical to box height */
+
+  text-decoration-line: underline;
+
+  color: #918e9b;
+}
